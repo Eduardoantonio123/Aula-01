@@ -1,0 +1,3 @@
+Ao acessar a página da sorveteria, o navegador realiza requisições ao servidor para carregar os arquivos necessários. Na aba Network do DevTools, é possível observar a quantidade de requisições realizadas e os respectivos status de cada uma.
+
+Ao acessar o endereço /sabores.html, o navegador solicita uma página que não existe. Nesse caso, o servidor responde com o status 404 (Not Found), indicando que o arquivo solicitado não foi encontrado.

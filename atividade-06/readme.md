@@ -1,0 +1,1 @@
+A alteração feita pelo DevTools modifica apenas a página exibida no navegador, não o arquivo HTML original. Por isso, ao atualizar a página com F5, o navegador carrega novamente o conteúdo salvo no VS Code.
